@@ -1,3 +1,5 @@
+keys.py
+# this is where i'll put my API keys
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
